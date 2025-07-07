@@ -6,11 +6,11 @@
 
 #### 1. **Top 5 Best-Selling Products by Revenue**
 The following products generated the highest revenue:
-- **Portable Refrigerator Freezer** – £3,829.17
-- **Digital Camera** – £3,563.43
-- **Electric Bike** – £3,536.50
-- **Portable Solar Generator** – £2,970.65
-- **Compact Digital Camera** – £2,593.31
+- **Portable Refrigerator Freezer** – \$3,829.17
+- **Digital Camera** – \$3,563.43
+- **Electric Bike** – \$3,536.50
+- **Portable Solar Generator** – \$2,970.65
+- **Compact Digital Camera** – \$2,593.31
 
 These products are consistently in demand and demonstrate strong customer appeal and pricing power.
 
@@ -20,7 +20,7 @@ The products contributing little to no revenue include:
 - **Frozen Chicken Nuggets**
 - **Chic Ankle Strap Heels**
 - **Workstation Laptop Stand**
-- **Canned Black Beans** – £0.94
+- **Canned Black Beans** – \$0.94
 
 These items either lack visibility or appeal or have issues with stock availability, positioning, or market fit.
 
